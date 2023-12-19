@@ -19,7 +19,7 @@
 <h3>✅ 나의 제작 페이지</h3>
 ☑ 팀원의 제작 페이지
 <hr>
-<b>✅ 안내 페이지</b>
+<h3>✅ 안내 페이지</h3>
 
 - 어플 아이콘
 - 로딩화면
@@ -30,7 +30,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/c6f96b14-2191-4d59-a946-7b7557c6b416.png"  width="200" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/fd747cca-2cf6-4eae-9519-b3ae6e0c73c3.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/131df46f-3f08-4b22-92b5-810dbff6efb9.png"  width="300" height="100%"/>
 <hr>
 
-<b>✅ 회원가입 페이지</b>
+<h3>✅ 회원가입 페이지</h3>
 
 - 비밀번호, 이메일 형식 확인
 - 회원가입 버튼을 클릭했을 때 공란이 있거나 유효성검사가 완료되지 않은 칸이 있다면 회원가입 실패
@@ -39,7 +39,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/eb1a28b6-d549-4701-af6c-c6ed3eec6ce0.png"  width="300" height="100%"/>
 <hr>
 
-<b>✅ 로그인 페이지</b>
+<h3>✅ 로그인 페이지</h3>
 
 - 로그인 버튼 클릭 시 유저 로그인, 메인화면 이동
 - 로그인 버튼을 클릭했을 때 공란이 있으면 로그인 실패
@@ -48,7 +48,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/f333f48d-8526-4ddf-ad99-e25f0b85d8a4.png"  width="300" height="100%"/>
 <hr>
 
-<b>✅ 메인 페이지</b>
+<h3>✅ 메인 페이지</h3>
 
 - 화면 터치시 말풍선의 내용이 바뀜
 - 좌측 상단에 현재 기온과 날씨
@@ -60,7 +60,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/aa298e39-c7a8-4979-a7bf-d470e69eb56c.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/d792286e-5a8f-4975-83d5-b940715a297e.png"  width="300" height="100%"/>
 <hr>
 
-<b>☑ 날씨 페이지</b>
+<h3>☑ 날씨 페이지</h3>
 
 - 상단에 현재 위치와 날짜, 시간 나타냄
 - 중앙에 현재 날씨와 기온 나타냄
@@ -71,7 +71,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/a39f7af2-084f-4f2f-82ba-77c82c94ebd6.png"  width="300" height="100%"/>
 <hr>
 
-<b>✅ 관리 페이지</b>
+<h3>✅ 관리 페이지</h3>
 
 - 다이어리 클릭 시 다이어리 페이지로 이동
 - 호흡하기 클릭 시 타이머 페이지로 이동
@@ -81,7 +81,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/60f41ab4-5b12-4f3d-9fac-b3a88bd53be0.png"  width="300" height="100%"/>
 <hr>
 
-<b>☑ 다이어리 페이지</b>
+<h3>☑ 다이어리 페이지</h3>
 
 - 작성한 일기 목록
 - 우측 하단에 연필 아이콘 클릭 시 일기 작성 페이지로 이동
@@ -93,7 +93,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/d3b52e63-519a-4f7a-8815-b10e152a2a1f.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/f518758e-bd92-47d2-8017-5b19447155c8.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/d0d39adc-5066-4864-86d0-4b5f11768c46.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/457a374a-b17f-4399-beae-ef96858b63e3.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/6bc2ac11-04d2-4f27-accc-2a1e4acff351.png"  width="300" height="100%"/>
 <hr>
 
-<b>☑ 타이머 페이지</b>
+<h3>☑ 타이머 페이지</h3>
 
 - 호흡 타이머
 - '+ 버튼 클릭 시 타이머 시간 설정 가능
@@ -103,8 +103,11 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/9eccc11c-21b0-4eda-a049-4e1b10671e32.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/83584693-1936-4d34-9a7a-e64427d2bba1.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/cb297209-0507-4392-b007-6df73936622f.png"  width="300" height="100%"/>
 <hr>
 
-<b>✅ 만보기 페이지</b>
+<h3>✅ 만보기 페이지</h3>
 
+- 숫자 클릭하여 목표 걸음 설정
+- 처음 실행 시 기기 생체 기능 사용 허락 경고창, 거절시 사용 불가능
+- 사용자 걸음에 맞춰 카운트 상승
 - 
 
 <img src="https://github.com/DH083/Purending/assets/147012079/9d0e1012-fac2-4d76-b235-159a743382de.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/84a88f86-2cc3-48fe-adf4-f4ff6b13e3b4.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/d570fd59-e7d7-4c98-889c-9332dd0e8c73.png"  width="300" height="100%"/>
@@ -117,7 +120,7 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/2cd7ca4e-97fc-4731-ae3e-1fb7e5bbf94f.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/8ba0a8f9-2adb-4200-bcd4-fb431b5f43f6.png"  width="500" height="100%"/>
 <hr>
 
-<b>✅ 설정</b>
+<h3>✅ 설정</h3>
 
 - 
 
