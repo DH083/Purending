@@ -110,30 +110,17 @@
 <img src="https://github.com/DH083/Purending/assets/147012079/9d0e1012-fac2-4d76-b235-159a743382de.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/84a88f86-2cc3-48fe-adf4-f4ff6b13e3b4.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/d570fd59-e7d7-4c98-889c-9332dd0e8c73.png"  width="300" height="100%"/>
 <hr>
 
-<b>✅  페이지</b>
+<b>☑ 스트레칭 페이지</b>
 
 - 
 
-<img src=".png"  width="300" height="100%"/>
+<img src="https://github.com/DH083/Purending/assets/147012079/2cd7ca4e-97fc-4731-ae3e-1fb7e5bbf94f.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/8ba0a8f9-2adb-4200-bcd4-fb431b5f43f6.png"  width="500" height="100%"/>
 <hr>
 
-<b>✅  페이지</b>
+<b>✅ 설정</b>
 
 - 
 
-<img src=".png"  width="300" height="100%"/>
-<hr>
-
-<b>✅  페이지</b>
-
-- 
-
-<img src=".png"  width="300" height="100%"/>
-<hr>
-
-<b>✅  페이지</b>
-
-- 
-
-<img src=".png"  width="300" height="100%"/>
+<img src="https://github.com/DH083/Purending/assets/147012079/aee14f0c-106f-46be-b0fc-104b13982d7d.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/31e06621-c0d1-4cbd-8c9c-fd020374dccd.png"  width="300" height="100%"/><br>
+<img src="https://github.com/DH083/Purending/assets/147012079/4d71e144-35eb-47ff-b36d-f16382c21112.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/fbc64840-3f5c-4a6a-9b82-98e28789eade.png"  width="300" height="100%"/>
 <hr>
