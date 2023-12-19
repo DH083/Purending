@@ -108,21 +108,26 @@
 - 숫자 클릭하여 목표 걸음 설정
 - 처음 실행 시 기기 생체 기능 사용 허락 경고창, 거절시 사용 불가능
 - 사용자 걸음에 맞춰 카운트 상승
-- 
+- 이동거리와 칼로리 계산
+- 일주일간의 걸음 수를 그래프로 보여줌
 
 <img src="https://github.com/DH083/Purending/assets/147012079/9d0e1012-fac2-4d76-b235-159a743382de.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/84a88f86-2cc3-48fe-adf4-f4ff6b13e3b4.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/d570fd59-e7d7-4c98-889c-9332dd0e8c73.png"  width="300" height="100%"/>
 <hr>
 
 <b>☑ 스트레칭 페이지</b>
 
-- 
+- 스트레칭 목록
+- 스트레칭 선택 시 동영상 재생
 
 <img src="https://github.com/DH083/Purending/assets/147012079/2cd7ca4e-97fc-4731-ae3e-1fb7e5bbf94f.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/8ba0a8f9-2adb-4200-bcd4-fb431b5f43f6.png"  width="500" height="100%"/>
 <hr>
 
 <h3>✅ 설정</h3>
 
-- 
+- 문의하기 버큰 클릭 시 사용자 기기에 이메일 어플 연동, 이메일 앱 선택 시 사용자 정보 및 수신자 자동 입력
+- 앱 잠금 버튼 클릭 시 앱 잠금 페이지로 이동
+- 잠금설정 시 앱 실행 시 잠금화면 띄우기
+- 로그아웃 버튼 클릭 시 사용자 로그아웃, 안내 페이지로 이동
 
 <img src="https://github.com/DH083/Purending/assets/147012079/aee14f0c-106f-46be-b0fc-104b13982d7d.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/31e06621-c0d1-4cbd-8c9c-fd020374dccd.png"  width="300" height="100%"/><br>
 <img src="https://github.com/DH083/Purending/assets/147012079/4d71e144-35eb-47ff-b36d-f16382c21112.png"  width="300" height="100%"/> <img src="https://github.com/DH083/Purending/assets/147012079/fbc64840-3f5c-4a6a-9b82-98e28789eade.png"  width="300" height="100%"/>
