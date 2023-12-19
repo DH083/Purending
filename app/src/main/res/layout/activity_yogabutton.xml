@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:backgroundTint="@color/white"
+            android:scaleType="centerCrop"
+            android:src="@drawable/chevron_left"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginRight="70dp"
+            android:fontFamily="@font/sciptbl"
+            android:gravity="center"
+            android:text="purending"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/before"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="운동 전 스트레칭"
+        android:textColor="#2E2121"
+        android:textSize="30dp"
+        android:fontFamily="@font/bitbit"
+        android:background="#00ff0000"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/morning"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="아침 스트레칭"
+        android:textColor="#2E2121"
+        android:textSize="30dp"
+        android:fontFamily="@font/bitbit"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="#00ff0000"/>
+
+    <Button
+        android:id="@+id/evening"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="수면 스트레칭"
+        android:textColor="#2E2121"
+        android:textSize="30dp"
+        android:fontFamily="@font/bitbit"
+        android:background="#00ff0000"/>
+
+    <Button
+        android:id="@+id/after"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="운동 후 스트레칭"
+        android:textColor="#2E2121"
+        android:textSize="30dp"
+        android:fontFamily="@font/bitbit"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="#00ff0000"
+        android:layout_marginBottom="100dp"/>
+
+
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:layout_marginBottom="15dp"
+    android:layout_marginRight="15dp"
+    android:text="영상출처 : 힙으뜸"/>
+</LinearLayout>

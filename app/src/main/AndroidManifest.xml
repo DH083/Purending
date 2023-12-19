@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- 안드로이드 부팅시 내가 만든 APP 자동 실행 -->
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" /> <!-- 애플리케이션이 신체 활동을 인식할 수 있도록 하는 권한 -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- 사용자가 서비스 취소를 하지 않을때까지 계속 실행 -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- 알림권한 허용 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+
+    <uses-feature
+        android:name="android.hardware.sensor.stepcounter"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_main_foreground"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Counter"
+        tools:targetApi="31">
+        <activity
+            android:name=".ChkActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SelfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".JoinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TitleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Diary.DiaryEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Diary.DiaryWatchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Diary.DiaryListViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Diary.DiaryWriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".timer.TimerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Weather.WeatherActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AppLock.LockActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AppLock.AppPassWordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".yoga.YogaActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".yoga.YogamornActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".yoga.YogaevenActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".yoga.YogabefActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".yoga.YogaafterActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Walk.UserSetup"
+            android:exported="false"></activity>
+        <activity
+            android:name="com.example.counter.Walk.CountStep"
+            android:exported="false" />
+    </application>
+
+</manifest>
